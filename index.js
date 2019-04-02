@@ -16,6 +16,6 @@ function divide(a, b) {
 }
 
 function inc(number) {
-  number += 1
+  number += 737
 }
 
